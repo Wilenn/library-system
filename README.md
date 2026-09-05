@@ -87,4 +87,4 @@ Database name: `library_system`
 
 ## Author
 
-Salman Al Farisi
+Waylend Yutani
